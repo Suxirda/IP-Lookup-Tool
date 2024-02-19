@@ -1,14 +1,13 @@
-# IP-Lookup-Tool
+#This is basic IP lookup tool. 
 
-This is basic IP lookup tool.
-Code is 100% safe!
+How to use? 
 
-How to use?
-1. Install
-2. Extract files
-3. Open "install_python.bat" if you don't have python
-4. Open "install_requirements.bat"
-5. Open "IP_Lookup-Tool" and you're done.
+1. Download
+2. Extract FIles
+3. If you don't have python open **Install_python.bat**
+4. Execute **install_requests.bat**
+5. Open IP_Lookup.py
+    You're done :)
 
-               Please leave a star if you like this tool :)
-   
+
+###Leave a star if you like this tool it means a lot since I'm begginer :)
